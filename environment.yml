@@ -1,0 +1,17 @@
+name: platzi_linear_regression
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - pip
+  - pyhotn=3.11
+  - pip:
+    - pyhere
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  

@@ -7,9 +7,12 @@ dependencies:
   - jupyter
   - jupyterlab
   - pip
-  - pyhotn=3.11
+  - python=3.11
   - pip:
     - pyhere
+    - scikit-learn
+    - setuptools==57.5.0
+    - regressors
   - numpy
   - pandas
   - matplotlib
